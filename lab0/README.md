@@ -35,5 +35,5 @@ F# ориентирован на эффективную обработку да�
 - Desktop Apps
 
 Кросс-платформенные фремворки для написания desktop приложений:
-    - Avalonia.FuncUI (F# Model-View-Update framework for functional cross-platform UI development)
-    - Elmish.WPF
+   - Avalonia.FuncUI (F# Model-View-Update framework for functional cross-platform UI development)
+   - Elmish.WPF
